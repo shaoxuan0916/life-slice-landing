@@ -34,7 +34,7 @@ export default function RootLayout({
               <p className="text-xl font-semibold">Life Slice</p>
             </div>
             <p className="text-md text-neutral-400 font-medium">
-              @ {new Date().getFullYear()} Life SLice. All rights reserved.
+              @ {new Date().getFullYear()} Life Slice. All rights reserved.
             </p>
           </Link>
 
