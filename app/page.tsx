@@ -2,7 +2,6 @@ import { StickyScroll } from "@/components/sections/features";
 import SubscriptionPlan from "@/components/sections/subscription";
 import { MovingBorderButton } from "@/components/ui/moving-border";
 import { content } from "@/lib/data/features.data";
-import Image from "next/image";
 import Link from "next/link";
 
 export default function Home() {
