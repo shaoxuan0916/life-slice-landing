@@ -6,7 +6,7 @@ import Link from "next/link";
 
 export default function Home() {
   return (
-    <div className="flex flex-col gap-8 items-center max-w-[1440px] w-full mx-auto py-16">
+    <div className="flex flex-col gap-8 items-center max-w-[1440px] w-full mx-auto pt-8 pb-16 lg:py-16">
       <div className="flex flex-col gap-3 lg:gap-4 items-center mb-4">
         <h1 className="text-4xl lg:text-5xl font-bold">Life Slice</h1>
         <p className="text-neutral-400 text-lg lg:text-xl italic font-medium">
